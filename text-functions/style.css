@@ -1,0 +1,14 @@
+html {
+    background-color: rgb(49, 49, 49);
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 50px 50px;
+    display: flex;
+    overflow: auto;
+}
+input {
+    width: 300px;
+}
